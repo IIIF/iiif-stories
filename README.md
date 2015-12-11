@@ -1,6 +1,6 @@
 # IIIF User Stories
 
-_See the [issues](issues) associated with this repository._
+_See the [issues](https://github.com/IIIF/iiif-stories/issues) associated with this repository._
 
 The intention is to collect user stories that will drive the development of [IIIF specifications](http://iiif.io/technical-details.html). Please:
 
