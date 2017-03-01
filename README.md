@@ -9,3 +9,9 @@ The intention is to collect user stories that will drive the development of [III
   * Feel free to use the tradition user story template ("As a _role_, I want _goal/desire_ so that _benefit_") or a use case style as you see fit. Include links to any useful examples or supporting material.
   * Assign one or more labels to help categorize the story.
   * Be prepared to help clarify or expand the story if others comment on it.
+  
+Issues should be [closed](https://github.com/IIIF/iiif-stories/issues?q=is%3Aclosed%20is%3Aissue) with an appropriate label when they are either:
+
+  * [`supported`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Asupported) - current published specifications support the use case.
+  * [`client-issue`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Aclient-issue) - use case describes client-side issue rather than a IIIF specification issue.
+  * [`wontfix`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Awontfix) - use case will not be addressed in IIIF work, perhaps because it is out-of-scope or impossible
