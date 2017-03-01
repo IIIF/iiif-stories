@@ -14,4 +14,4 @@ Issues should be [closed](https://github.com/IIIF/iiif-stories/issues?q=is%3Aclo
 
   * [`supported`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Asupported) - current published specifications support the use case.
   * [`client-issue`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Aclient-issue) - use case describes client-side issue rather than a IIIF specification issue.
-  * [`wontfix`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Awontfix) - use case will not be addressed in IIIF work, perhaps because it is out-of-scope or impossible
+  * [`wontfix`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Awontfix) - use case will not be addressed in IIIF work, perhaps because it is [`outofscope?`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Aoutofscope%3F%20) or [`invalid`](https://github.com/IIIF/iiif-stories/issues?q=is%3Aissue%20label%3Ainvalid%20)
